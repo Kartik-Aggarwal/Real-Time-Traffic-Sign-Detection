@@ -41,3 +41,10 @@ Detection and classification of traffic signs in real time. ROI is enclosed in a
 <br>
 <br>
 ![Plots](https://github.com/Kartik-Aggarwal/Real-Time-Traffic-Sign-Detection/blob/main/readme_images/1.PNG)
+
+
+## Refrences
+1. Github link to the Ultralytics repository - https://github.com/ultralytics/yolov5
+2. Kaggle link for some images of the dataset - https://www.kaggle.com/andrewmvd/road-sign-detection
+3. Original paper of YOLO released in May, 2016 - https://arxiv.org/pdf/1506.02640.pdf
+4. Github link to the LabelImg repository - https://github.com/tzutalin/labelIm
