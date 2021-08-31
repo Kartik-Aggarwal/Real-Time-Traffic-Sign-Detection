@@ -36,3 +36,8 @@ Detection and classification of traffic signs in real time. ROI is enclosed in a
 └───Test
 
 ## Results
+![Result](https://github.com/Kartik-Aggarwal/Real-Time-Traffic-Sign-Detection/blob/main/readme_images/2.PNG)
+<br>
+<br>
+<br>
+![Plots](https://github.com/Kartik-Aggarwal/Real-Time-Traffic-Sign-Detection/blob/main/readme_images/1.PNG)
