@@ -40,7 +40,21 @@ Detection and classification of traffic signs in real time. ROI is enclosed in a
 <br>
 <br>
 <br>
+
 ![Plots](https://github.com/Kartik-Aggarwal/Real-Time-Traffic-Sign-Detection/blob/main/readme_images/1.PNG)
+\
+**Following are some of the video results**\
+(The quality and frame rate is reduced here | For Original videos [click here](https://github.com/Kartik-Aggarwal/Real-Time-Traffic-Sign-Detection/tree/main/readme_images))\
+\
+\
+![vid1](https://github.com/Kartik-Aggarwal/Real-Time-Traffic-Sign-Detection/blob/main/readme_images/vidd1_Trim_final.gif)
+\
+![vid2](https://github.com/Kartik-Aggarwal/Real-Time-Traffic-Sign-Detection/blob/main/readme_images/vidd2_Trim.gif)
+\
+![vid3](https://github.com/Kartik-Aggarwal/Real-Time-Traffic-Sign-Detection/blob/main/readme_images/vidd5_Trim.gif)\
+\
+It can be seen that the model is able to detect with high accuracy even when vehicle is moving at high speeds.\
+Real time frame rate fluctuates between 28-38 fps
 
 ## References
 1. Github link to the Ultralytics repository - https://github.com/ultralytics/yolov5
